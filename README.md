@@ -8,5 +8,3 @@ This is a code repository for the Blockchain app developed in React.
 We will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
 
 By the end of this article, you will become the master of working with APIs.
-=======
-# martink-blockchain-react-native
