@@ -21,7 +21,7 @@ Automatically the cmd terminal opens up.
 
 Inside the newly created terminal you can run some built-in commands:
 
-### `npm install
+### `npm install`
 
 and
 
